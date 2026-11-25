@@ -1,4 +1,4 @@
-import zero.ui.Label;
+rtimport zero.ui.Label;
 import zero.App;
 
 public class Main extends App {
